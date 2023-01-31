@@ -43,7 +43,9 @@ body {
     position: absolute;
     background-color: #000;
 }
-
+.black-key:hover { 
+    background-color:rgb(77, 74, 74)
+}
 
 .black-key:nth-child(1) {
     left: 48px;    
@@ -53,7 +55,7 @@ body {
 }
 
 .black-key:nth-child(3) {
-    left: 253px;    
+    left: 186px;    
 }
 
 .black-key:nth-child(4) {
@@ -73,7 +75,7 @@ body {
 }
 
 .black-key:nth-child(8) {
-    left: 662px;    
+    left: 660px;    
 }
 
 .black-key:nth-child(9) {
